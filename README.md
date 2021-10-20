@@ -2,6 +2,7 @@
 - 🔭 Estou atualmente trabalhando com Python com Flask e React
 - 🌱 Estudando tanto Spring Java, Python com Flask e React
 - 💬 Curso Engenharia de Computação, no Senai Cimatec, muitos me conhecem como Drungas(prefiro que me chame de Drungas 🤡), e sim gosto muito de video-games, de modo geral, foram eles que me fizeram ter essa paixão por programação, ou seja, infelizmente ou felizmente para alguns sou um nerdola 🤓
+- Faço parte da IEEE EMBS CIMATEC 🧬
 - 😄 Pronouns: ele/dele
 
 <div align="center">
